@@ -215,7 +215,9 @@ perimeter(228)
 ___
 
 # История коммитов
-* 9ed27bb (HEAD -> main) Add circle.py
-* 28f587b Add square.py
-* 4984644 Add triangle.py
-* 1f19de8 Add rectangle.py
+* [1f19de8](https://github.com/xXxCAHRxXx/lab2_tools/commit/1f19de8fd2a4970d5de872ae53f60382244ff50a) Add rectangle.py
+* [4984644](https://github.com/xXxCAHRxXx/lab2_tools/commit/4984644946d85862821d33c856fca3daff0b0cc3) Add triangle.py
+* [28f587b](https://github.com/xXxCAHRxXx/lab2_tools/commit/28f587b69cb0c427f6da8872ef0cad762c48f5e8) Add square.py
+* [9ed27bb](https://github.com/xXxCAHRxXx/lab2_tools/commit/9ed27bbf065dd771e5dab3e341839f013a269a8c) Add circle.py
+* [6e0fe3b](https://github.com/xXxCAHRxXx/lab2_tools/commit/6e0fe3b33ea7b576d4db2668c2df91ed0b705de4) Add README.md
+
